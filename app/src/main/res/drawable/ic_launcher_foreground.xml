@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Upload-Pfeil über drei Signalbalken, im sicheren Bereich (66 dp) des adaptiven Icons -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:pathData="M38,72h8v8h-8z M50,64h8v16h-8z M62,56h8v24h-8z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,26 L68,42 H59 V54 H49 V42 H40 Z" />
+</vector>

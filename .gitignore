@@ -1,0 +1,16 @@
+# Android Studio / Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Gebaute App und Signaturschlüssel – nicht ins Repo
+*.apk
+*.aab
+app/release/
+app/debug/
+output-metadata.json
+*.jks
+*.keystore

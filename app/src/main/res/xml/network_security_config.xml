@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Viele selbst gehostete InfluxDB-Server laufen über HTTP (z. B. im internen Netz oder per VPN). Die App spricht nur mit der in den Einstellungen eingetragenen Adresse. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
